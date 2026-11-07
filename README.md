@@ -35,7 +35,7 @@ Qual foi o valor total de cupons de desconto concedidos?
 
 Qual foi o total de cupons de desconto por plano?
 
-Qual foi o total geral de vendas do Xbox Game Pass?
+Qual foi o total de vendas do Xbox Game Pass?
 
 🛠️ Tecnologias Utilizadas
 
