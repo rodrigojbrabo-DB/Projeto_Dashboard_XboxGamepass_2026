@@ -38,9 +38,8 @@ Qual foi o total de cupons de desconto por plano?
 Qual foi o total geral de vendas do Xbox Game Pass?
 
 🛠️ Tecnologias Utilizadas
-Microsoft Excel
 
-Power BI
+Microsoft Excel
 
 Análise de dados
 
@@ -51,7 +50,7 @@ O arquivo do dashboard está disponível no repositório para análise.
 
 📘 Conclusão
 Este projeto demonstra como a análise estruturada de dados pode gerar insights valiosos para decisões de negócio, especialmente em modelos de assinatura como o Xbox Game Pass.
-A combinação de Excel e Power BI permitiu criar uma visão clara, objetiva e orientada a métricas.
+A combinação de Excel e Analise dos doados permitiu criar uma visão clara, objetiva e orientada a métricas.
 
 
 
